@@ -1,5 +1,5 @@
 # JayBall
-This is a submission for the CS2261 homework assignment. It is a recreation of the classic arcade game, Jezzball. This project explores the basic depths and limitations of the Mode 3 bitmap mode on the GBA. Further details on the game mechanics, controls, and game summary can be found [here](./HW02%20Scaffold/README.md).
+This is a submission for the CS2261 homework assignment. It is a recreation of the classic arcade game, Jezzball. This project explores the basic depths and limitations of the Mode 3 bitmap mode on the GBA. Further details on the game mechanics, controls, and game summary can be found [here](./HW02%20Scaffold/readme.txt).
 
 ## Project Setup
 This game was developed for the GBA. To run the game on a Mac or Windows device, the [mGBA emulator](https://mgba.io/) must first be installed. Then, download or clone the repository. Open the emulator, select `File > Load ROM`, and open the `HW02_LeiJason.zip` file. Alternatively, opening the `Project.gba` file in the `HW02 Scaffold` folder through the emulator will also work.
